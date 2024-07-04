@@ -1,0 +1,401 @@
+Array
+(
+    [] => Array
+        (
+            ["Bitrix\Main\HttpRequest"] => Array
+                (
+                    ["*values"] => Array
+                        (
+                            ["ajaxParams"] => "eJzFlNFu2jAUhl9lynXVAkla4GpuYiAliVPb6YrWyUohaKjr6EJYO007zz7bCZCWpKLdxbgI8X+O7Zzj399vwzv3iTMWfBJho2/Ml9m9cVSKcty223KILtC1CIirMibVsXBixklQyiEKpIIi7pFQSjfrltXuqKfZUk+rq9/tD/qvGEx1YC4nc3zNK5OlMvB8LCJKIuEUW0uN4svYo9gVAw/7LjP6n/WuMhKNSIiNL0cGvsIhFwFmDA2x8Fw5kWLEIjzm4hOhYzEgNDA2eTHDtCGZj1A4npBYcBxEPuJqFwc5I7xpVrgTvEAJ5mlL/7b6kJI4YmV75FYiRiJAdOyFw2oria5aXMRBVC5blRmf+LgmfeTJ3tNJOUOuHKkaYuoXraqmItf11AsqYw4JItkuWf+2tr6RicdldlcsdR5zLufp3vaNWfIz+SVWyzxbz74vpkleJOHrCFMuGOZcFsTKDznvWFKiV5hK4WueP6z6Nyc3J1marB7Su/z4dpFni6eOdZyty2yfDD115o/p7X2yytPs4zZ5mxMhpja4cLpnpz+ewvmlnW7qYB7HYkCV+UqPoppQeWYo5kQZnAnESPnFQx6Iwg3awVfIj1XqtzRfiely+ZBmSZ6K1fr2fpGL8oYoE23ao41u7YxuVkxv9rTDOxXrW209SHcBq7gfptaLhWa7S2KdVe5QkT/dnK927OnsrJXMe0m3123PZ117mk7tjtUybSu1zaSXli0M0BgLJFysXaDchAPk+c+umFZkBGqxAC+4AC/BAA1kgH9CA+yzAergAAfQAQ7FA7yLD7AHCGgiBNQgAmoZAQ2QgCZKQDMmYI8T8Boo4HVSwEGogEZWwNtgAYfQAppxAa/wYi/2HBjwjBjwHmTA/2cGvAkaUE8NaMLGn7+QP1Wn"
+                            ["leadID"] => "IiEJ7d"
+                            ["cookie_ga"] => ""
+                            ["cookie_ga_v4"] => ""
+                            ["event_action"] => ""
+                            ["sessid"] => "a933214ce5d09a9b957f448f2202d4c6"
+                            ["NAME"] => "Azat reaspekt"
+                            ["PROP_PHONE"] => "+7 (555) 5555555"
+                            ["PROP_SITE"] => "reaspekt.ru"
+                            ["PROP_EMAIL"] => "test@reaspekt.ru"
+                            ["PROP_PAGE_URL"] => "/"
+                        )
+
+                    ["*rawValues"] => N
+                    ["*server"] => Array
+                        (
+                            ["Bitrix\Main\Server"] => Array
+                                (
+                                    ["*values"] => Array
+                                        (
+                                            ["HTTPS"] => "Off"
+                                            ["REMOTE_USER"] => ""
+                                            ["HTTP_HOST"] => "www.reaspekt.ru"
+                                            ["HTTP_X_HTTPS"] => "1"
+                                            ["HTTP_X_FORWARDED_PROTO"] => "https"
+                                            ["HTTP_CONNECTION"] => "close"
+                                            ["CONTENT_LENGTH"] => "1183"
+                                            ["HTTP_USER_AGENT"] => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0"
+                                            ["HTTP_ACCEPT"] => "application/json, text/javascript, */*; q=0.01"
+                                            ["HTTP_ACCEPT_LANGUAGE"] => "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3"
+                                            ["HTTP_ACCEPT_ENCODING"] => "gzip, deflate, br, zstd"
+                                            ["CONTENT_TYPE"] => "application/x-www-form-urlencoded; charset=UTF-8"
+                                            ["HTTP_X_REQUESTED_WITH"] => "XMLHttpRequest"
+                                            ["HTTP_ORIGIN"] => "https://www.reaspekt.ru"
+                                            ["HTTP_REFERER"] => "https://www.reaspekt.ru/"
+                                            ["HTTP_SEC_FETCH_DEST"] => "empty"
+                                            ["HTTP_SEC_FETCH_MODE"] => "cors"
+                                            ["HTTP_SEC_FETCH_SITE"] => "same-origin"
+                                            ["HTTP_PRIORITY"] => "u=1"
+                                            ["HTTP_COOKIE"] => "DIS_USER_ID=1; BITRIX_SM_REASPEKT_LAST_IP=95.161.219.202; BITRIX_SM_REASPEKT_GEOBASE=%7B%22ID%22%3A%22981%22%2C%22UF_XML_ID%22%3A%22551487%22%2C%22CITY%22%3A%22%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%22%2C%22REGION%22%3A%22%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD%22%2C%22OKRUG%22%3A%22%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%22%7D; _ga_Q6PD57GZCS=GS1.1.1718728046.13.1.1718728975.35.0.0; _ga=GA1.2.621717149.1713436747; _ct=2700000000011475299; _ct_client_global_id=56e63c05-9499-59b2-95da-96d2729fe2e7; tmr_lvid=ec0dd55cd27ebc93896ae9c81a675f5c; tmr_lvidTS=1707297283646; _ym_uid=1707297284849289344; _ym_d=1713436748; BITRIX_SM_LOGIN=admin; BITRIX_SM_UIDL=admin; reaspektReferral=direct-none; cted=modId%3Dc9k7bvc7%3Bclient_id%3D621717149.1713436747%3Bya_client_id%3D1707297284849289344; _ct_ids=c9k7bvc7%3A65164%3A45811427; _ct_session_id=45811427; _ct_site_id=65164; PHPSESSID=X29VM8OB2f2jEdkYPIPo4Z6YKe4VQkD7; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; BITRIX_SM_referral-source-primary=direct-none; reaspektSearch=back_url_admin%3D%252Fbitrix%252Fadmin%252Fiblock_list_admin.php%253FIBLOCK_ID%253D151%2526type%253Dform%2526lang%253Dru%2526apply_filter%253DY; _ym_isad=2; domain_sid=u_dzkwW2wsF_rRyUWMrWr%3A1718722631611; tmr_detect=0%7C1718728955085; BITRIX_SM_referral-source=https://www.reaspekt.ru/cases/email-marketing-dlya-internet-magazina-monet-i-banknot-numizmat/; _gid=GA1.2.80284029.1718723100; __session:0.3602732293131634:=https:; call_s=%3C!%3E%7B%22c9k7bvc7%22%3A%5B1718730752%2C45811427%2C%7B%22388844%22%3A%221091536%22%7D%5D%2C%22d%22%3A2%7D%3C!%3E; _ym_visorc=w; _gat_UA-69174424-1=1"
+                                            ["PATH"] => "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+                                            ["SERVER_SIGNATURE"] => ""
+                                            ["SERVER_SOFTWARE"] => "Apache/2.4.29"
+                                            ["SERVER_NAME"] => "www.reaspekt.ru"
+                                            ["SERVER_ADDR"] => "127.0.7.23"
+                                            ["SERVER_PORT"] => "443"
+                                            ["REMOTE_ADDR"] => "95.161.219.202"
+                                            ["DOCUMENT_ROOT"] => "/home/r/reaspekt/reaspekt.ru/public_html"
+                                            ["REQUEST_SCHEME"] => "http"
+                                            ["CONTEXT_PREFIX"] => ""
+                                            ["CONTEXT_DOCUMENT_ROOT"] => "/home/r/reaspekt/reaspekt.ru/public_html"
+                                            ["SERVER_ADMIN"] => "info@timeweb.ru"
+                                            ["SCRIPT_FILENAME"] => "/home/r/reaspekt/reaspekt.ru/public_html/local/components/reaspekt/d7.iblock.form.new/ajax.php"
+                                            ["REMOTE_PORT"] => "51624"
+                                            ["GATEWAY_INTERFACE"] => "CGI/1.1"
+                                            ["SERVER_PROTOCOL"] => "HTTP/1.0"
+                                            ["REQUEST_METHOD"] => "POST"
+                                            ["QUERY_STRING"] => ""
+                                            ["REQUEST_URI"] => "/local/components/reaspekt/d7.iblock.form.new/ajax.php"
+                                            ["SCRIPT_NAME"] => "/local/components/reaspekt/d7.iblock.form.new/ajax.php"
+                                            ["PHP_SELF"] => "/local/components/reaspekt/d7.iblock.form.new/ajax.php"
+                                            ["REQUEST_TIME_FLOAT"] => 1718728975.747242
+                                            ["REQUEST_TIME"] => 1718728975
+                                            ["argv"] => {
+                                            ["argc"] => 0
+                                        )
+
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*requestedPage"] => "/local/components/reaspekt/d7.iblock.form.new/ajax.php"
+                    ["*requestedPageDirectory"] => "/local/components/reaspekt/d7.iblock.form.new/"
+                    ["*queryString"] => Array
+                        (
+                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                                (
+                                    ["*values"] => {
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*postData"] => Array
+                        (
+                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                                (
+                                    ["*values"] => Array
+                                        (
+                                            ["ajaxParams"] => "eJzFlNFu2jAUhl9lynXVAkla4GpuYiAliVPb6YrWyUohaKjr6EJYO007zz7bCZCWpKLdxbgI8X+O7Zzj399vwzv3iTMWfBJho2/Ml9m9cVSKcty223KILtC1CIirMibVsXBixklQyiEKpIIi7pFQSjfrltXuqKfZUk+rq9/tD/qvGEx1YC4nc3zNK5OlMvB8LCJKIuEUW0uN4svYo9gVAw/7LjP6n/WuMhKNSIiNL0cGvsIhFwFmDA2x8Fw5kWLEIjzm4hOhYzEgNDA2eTHDtCGZj1A4npBYcBxEPuJqFwc5I7xpVrgTvEAJ5mlL/7b6kJI4YmV75FYiRiJAdOyFw2oria5aXMRBVC5blRmf+LgmfeTJ3tNJOUOuHKkaYuoXraqmItf11AsqYw4JItkuWf+2tr6RicdldlcsdR5zLufp3vaNWfIz+SVWyzxbz74vpkleJOHrCFMuGOZcFsTKDznvWFKiV5hK4WueP6z6Nyc3J1marB7Su/z4dpFni6eOdZyty2yfDD115o/p7X2yytPs4zZ5mxMhpja4cLpnpz+ewvmlnW7qYB7HYkCV+UqPoppQeWYo5kQZnAnESPnFQx6Iwg3awVfIj1XqtzRfiely+ZBmSZ6K1fr2fpGL8oYoE23ao41u7YxuVkxv9rTDOxXrW209SHcBq7gfptaLhWa7S2KdVe5QkT/dnK927OnsrJXMe0m3123PZ117mk7tjtUybSu1zaSXli0M0BgLJFysXaDchAPk+c+umFZkBGqxAC+4AC/BAA1kgH9CA+yzAergAAfQAQ7FA7yLD7AHCGgiBNQgAmoZAQ2QgCZKQDMmYI8T8Boo4HVSwEGogEZWwNtgAYfQAppxAa/wYi/2HBjwjBjwHmTA/2cGvAkaUE8NaMLGn7+QP1Wn"
+                                            ["leadID"] => "IiEJ7d"
+                                            ["cookie_ga"] => ""
+                                            ["cookie_ga_v4"] => ""
+                                            ["event_action"] => ""
+                                            ["sessid"] => "a933214ce5d09a9b957f448f2202d4c6"
+                                            ["NAME"] => "Azat reaspekt"
+                                            ["PROP_PHONE"] => "+7 (555) 5555555"
+                                            ["PROP_SITE"] => "reaspekt.ru"
+                                            ["PROP_EMAIL"] => "test@reaspekt.ru"
+                                            ["PROP_PAGE_URL"] => "/"
+                                        )
+
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*files"] => Array
+                        (
+                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                                (
+                                    ["*values"] => {
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*cookies"] => Array
+                        (
+                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                                (
+                                    ["*values"] => Array
+                                        (
+                                            ["REASPEKT_LAST_IP"] => "95.161.219.202"
+                                            ["REASPEKT_GEOBASE"] => "{"ID":"981","UF_XML_ID":"551487","CITY":"Казань","REGION":"Татарстан","OKRUG":"Россия"}"
+                                            ["LOGIN"] => "admin"
+                                            ["UIDL"] => "admin"
+                                            ["SOUND_LOGIN_PLAYED"] => "Y"
+                                            ["referral-source-primary"] => "direct-none"
+                                            ["referral-source"] => "https://www.reaspekt.ru/cases/email-marketing-dlya-internet-magazina-monet-i-banknot-numizmat/"
+                                        )
+
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*cookiesRaw"] => Array
+                        (
+                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                                (
+                                    ["*values"] => Array
+                                        (
+                                            ["DIS_USER_ID"] => "1"
+                                            ["BITRIX_SM_REASPEKT_LAST_IP"] => "95.161.219.202"
+                                            ["BITRIX_SM_REASPEKT_GEOBASE"] => "{"ID":"981","UF_XML_ID":"551487","CITY":"Казань","REGION":"Татарстан","OKRUG":"Россия"}"
+                                            ["_ga_Q6PD57GZCS"] => "GS1.1.1718728046.13.1.1718728975.35.0.0"
+                                            ["_ga"] => "GA1.2.621717149.1713436747"
+                                            ["_ct"] => "2700000000011475299"
+                                            ["_ct_client_global_id"] => "56e63c05-9499-59b2-95da-96d2729fe2e7"
+                                            ["tmr_lvid"] => "ec0dd55cd27ebc93896ae9c81a675f5c"
+                                            ["tmr_lvidTS"] => "1707297283646"
+                                            ["_ym_uid"] => "1707297284849289344"
+                                            ["_ym_d"] => "1713436748"
+                                            ["BITRIX_SM_LOGIN"] => "admin"
+                                            ["BITRIX_SM_UIDL"] => "admin"
+                                            ["reaspektReferral"] => "direct-none"
+                                            ["cted"] => "modId=c9k7bvc7;client_id=621717149.1713436747;ya_client_id=1707297284849289344"
+                                            ["_ct_ids"] => "c9k7bvc7:65164:45811427"
+                                            ["_ct_session_id"] => "45811427"
+                                            ["_ct_site_id"] => "65164"
+                                            ["PHPSESSID"] => "X29VM8OB2f2jEdkYPIPo4Z6YKe4VQkD7"
+                                            ["BITRIX_SM_SOUND_LOGIN_PLAYED"] => "Y"
+                                            ["BITRIX_SM_referral-source-primary"] => "direct-none"
+                                            ["reaspektSearch"] => "back_url_admin=%2Fbitrix%2Fadmin%2Fiblock_list_admin.php%3FIBLOCK_ID%3D151%26type%3Dform%26lang%3Dru%26apply_filter%3DY"
+                                            ["_ym_isad"] => "2"
+                                            ["domain_sid"] => "u_dzkwW2wsF_rRyUWMrWr:1718722631611"
+                                            ["tmr_detect"] => "0|1718728955085"
+                                            ["BITRIX_SM_referral-source"] => "https://www.reaspekt.ru/cases/email-marketing-dlya-internet-magazina-monet-i-banknot-numizmat/"
+                                            ["_gid"] => "GA1.2.80284029.1718723100"
+                                            ["__session:0_3602732293131634:"] => "https:"
+                                            ["call_s"] => "<!>{"c9k7bvc7":[1718730752,45811427,{"388844":"1091536"}],"d":2}<!>"
+                                            ["_ym_visorc"] => "w"
+                                            ["_gat_UA-69174424-1"] => "1"
+                                        )
+
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*jsonData"] => Array
+                        (
+                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                                (
+                                    ["*values"] => {
+                                    ["*rawValues"] => N
+                                )
+
+                        )
+
+                    ["*headers"] => Array
+                        (
+                            ["Bitrix\Main\Web\HttpHeaders"] => Array
+                                (
+                                    ["*headers"] => Array
+                                        (
+                                            ["host"] => Array
+                                                (
+                                                    ["name"] => "host"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "www.reaspekt.ru"
+                                                        )
+
+                                                )
+
+                                            ["x-https"] => Array
+                                                (
+                                                    ["name"] => "x-https"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "1"
+                                                        )
+
+                                                )
+
+                                            ["x-forwarded-proto"] => Array
+                                                (
+                                                    ["name"] => "x-forwarded-proto"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "https"
+                                                        )
+
+                                                )
+
+                                            ["connection"] => Array
+                                                (
+                                                    ["name"] => "connection"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "close"
+                                                        )
+
+                                                )
+
+                                            ["content-length"] => Array
+                                                (
+                                                    ["name"] => "content-length"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "1183"
+                                                        )
+
+                                                )
+
+                                            ["user-agent"] => Array
+                                                (
+                                                    ["name"] => "user-agent"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0"
+                                                        )
+
+                                                )
+
+                                            ["accept"] => Array
+                                                (
+                                                    ["name"] => "accept"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "application/json, text/javascript, */*; q=0.01"
+                                                        )
+
+                                                )
+
+                                            ["accept-language"] => Array
+                                                (
+                                                    ["name"] => "accept-language"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3"
+                                                        )
+
+                                                )
+
+                                            ["accept-encoding"] => Array
+                                                (
+                                                    ["name"] => "accept-encoding"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "gzip, deflate, br, zstd"
+                                                        )
+
+                                                )
+
+                                            ["content-type"] => Array
+                                                (
+                                                    ["name"] => "content-type"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "application/x-www-form-urlencoded; charset=UTF-8"
+                                                        )
+
+                                                )
+
+                                            ["x-requested-with"] => Array
+                                                (
+                                                    ["name"] => "x-requested-with"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "XMLHttpRequest"
+                                                        )
+
+                                                )
+
+                                            ["origin"] => Array
+                                                (
+                                                    ["name"] => "origin"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "https://www.reaspekt.ru"
+                                                        )
+
+                                                )
+
+                                            ["referer"] => Array
+                                                (
+                                                    ["name"] => "referer"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "https://www.reaspekt.ru/"
+                                                        )
+
+                                                )
+
+                                            ["sec-fetch-dest"] => Array
+                                                (
+                                                    ["name"] => "sec-fetch-dest"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "empty"
+                                                        )
+
+                                                )
+
+                                            ["sec-fetch-mode"] => Array
+                                                (
+                                                    ["name"] => "sec-fetch-mode"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "cors"
+                                                        )
+
+                                                )
+
+                                            ["sec-fetch-site"] => Array
+                                                (
+                                                    ["name"] => "sec-fetch-site"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "same-origin"
+                                                        )
+
+                                                )
+
+                                            ["priority"] => Array
+                                                (
+                                                    ["name"] => "priority"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "u=1"
+                                                        )
+
+                                                )
+
+                                            ["cookie"] => Array
+                                                (
+                                                    ["name"] => "cookie"
+                                                    ["values"] => Array
+                                                        (
+                                                            [0] => "DIS_USER_ID=1; BITRIX_SM_REASPEKT_LAST_IP=95.161.219.202; BITRIX_SM_REASPEKT_GEOBASE=%7B%22ID%22%3A%22981%22%2C%22UF_XML_ID%22%3A%22551487%22%2C%22CITY%22%3A%22%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%22%2C%22REGION%22%3A%22%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD%22%2C%22OKRUG%22%3A%22%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%22%7D; _ga_Q6PD57GZCS=GS1.1.1718728046.13.1.1718728975.35.0.0; _ga=GA1.2.621717149.1713436747; _ct=2700000000011475299; _ct_client_global_id=56e63c05-9499-59b2-95da-96d2729fe2e7; tmr_lvid=ec0dd55cd27ebc93896ae9c81a675f5c; tmr_lvidTS=1707297283646; _ym_uid=1707297284849289344; _ym_d=1713436748; BITRIX_SM_LOGIN=admin; BITRIX_SM_UIDL=admin; reaspektReferral=direct-none; cted=modId%3Dc9k7bvc7%3Bclient_id%3D621717149.1713436747%3Bya_client_id%3D1707297284849289344; _ct_ids=c9k7bvc7%3A65164%3A45811427; _ct_session_id=45811427; _ct_site_id=65164; PHPSESSID=X29VM8OB2f2jEdkYPIPo4Z6YKe4VQkD7; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; BITRIX_SM_referral-source-primary=direct-none; reaspektSearch=back_url_admin%3D%252Fbitrix%252Fadmin%252Fiblock_list_admin.php%253FIBLOCK_ID%253D151%2526type%253Dform%2526lang%253Dru%2526apply_filter%253DY; _ym_isad=2; domain_sid=u_dzkwW2wsF_rRyUWMrWr%3A1718722631611; tmr_detect=0%7C1718728955085; BITRIX_SM_referral-source=https://www.reaspekt.ru/cases/email-marketing-dlya-internet-magazina-monet-i-banknot-numizmat/; _gid=GA1.2.80284029.1718723100; __session:0.3602732293131634:=https:; call_s=%3C!%3E%7B%22c9k7bvc7%22%3A%5B1718730752%2C45811427%2C%7B%22388844%22%3A%221091536%22%7D%5D%2C%22d%22%3A2%7D%3C!%3E; _ym_visorc=w; _gat_UA-69174424-1=1"
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    ["*version"] => "1.1"
+                                    ["*reasonPhrase"] => N
+                                )
+
+                        )
+
+                    ["*httpHost"] => "www.reaspekt.ru"
+                    ["*acceptedLanguages"] => N
+                )
+
+        )
+
+)
