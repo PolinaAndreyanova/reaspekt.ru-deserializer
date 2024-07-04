@@ -2,7 +2,7 @@ Array
 (
     [] => Array
         (
-            ["Bitrix\Main\HttpRequest"] => Array
+            ["OBJECT_Bitrix\Main\HttpRequest"] => Array
                 (
                     ["*values"] => Array
                         (
@@ -22,7 +22,7 @@ Array
                     ["*rawValues"] => N
                     ["*server"] => Array
                         (
-                            ["Bitrix\Main\Server"] => Array
+                            ["OBJECT_Bitrix\Main\Server"] => Array
                                 (
                                     ["*values"] => Array
                                         (
@@ -69,7 +69,7 @@ Array
                                             ["PHP_SELF"] => "/local/components/reaspekt/d7.iblock.form.new/ajax.php"
                                             ["REQUEST_TIME_FLOAT"] => 1718728975.747242
                                             ["REQUEST_TIME"] => 1718728975
-                                            ["argv"] => {
+                                            ["argv"] => []
                                             ["argc"] => 0
                                         )
 
@@ -82,9 +82,9 @@ Array
                     ["*requestedPageDirectory"] => "/local/components/reaspekt/d7.iblock.form.new/"
                     ["*queryString"] => Array
                         (
-                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                            ["OBJECT_Bitrix\Main\Type\ParameterDictionary"] => Array
                                 (
-                                    ["*values"] => {
+                                    ["*values"] => []
                                     ["*rawValues"] => N
                                 )
 
@@ -92,7 +92,7 @@ Array
 
                     ["*postData"] => Array
                         (
-                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                            ["OBJECT_Bitrix\Main\Type\ParameterDictionary"] => Array
                                 (
                                     ["*values"] => Array
                                         (
@@ -116,9 +116,9 @@ Array
 
                     ["*files"] => Array
                         (
-                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                            ["OBJECT_Bitrix\Main\Type\ParameterDictionary"] => Array
                                 (
-                                    ["*values"] => {
+                                    ["*values"] => []
                                     ["*rawValues"] => N
                                 )
 
@@ -126,7 +126,7 @@ Array
 
                     ["*cookies"] => Array
                         (
-                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                            ["OBJECT_Bitrix\Main\Type\ParameterDictionary"] => Array
                                 (
                                     ["*values"] => Array
                                         (
@@ -146,7 +146,7 @@ Array
 
                     ["*cookiesRaw"] => Array
                         (
-                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                            ["OBJECT_Bitrix\Main\Type\ParameterDictionary"] => Array
                                 (
                                     ["*values"] => Array
                                         (
@@ -190,9 +190,9 @@ Array
 
                     ["*jsonData"] => Array
                         (
-                            ["Bitrix\Main\Type\ParameterDictionary"] => Array
+                            ["OBJECT_Bitrix\Main\Type\ParameterDictionary"] => Array
                                 (
-                                    ["*values"] => {
+                                    ["*values"] => []
                                     ["*rawValues"] => N
                                 )
 
@@ -200,7 +200,7 @@ Array
 
                     ["*headers"] => Array
                         (
-                            ["Bitrix\Main\Web\HttpHeaders"] => Array
+                            ["OBJECT_Bitrix\Main\Web\HttpHeaders"] => Array
                                 (
                                     ["*headers"] => Array
                                         (
