@@ -63,24 +63,24 @@ function handlerSerializedString(string $string): array
     return $arDataSplit;
 }
 
-function deserialize(string $data): array
+function deserialize(string $data, $curDataType = "", $newKey = "", $arCurDataValueSplit = [], $isOpenBracket = false, $isCount = false, $countArElems = [], $isEmptyArray = false): array
 {
     $arDeserializedData = [];
     $arDataSplit = handlerSerializedString($data);
 
-    $curLevel = &$arDeserializedData;
-    $arLevels = [];
+    // $curLevel = &$arDeserializedData;
+    // $arLevels = [];
 
-    $curDataType = "";
-    $newKey = "";
-    $arCurDataValueSplit = [];
+    // $curDataType = "";
+    // $newKey = "";
+    // $arCurDataValueSplit = [];
     
-    $isOpenBracket = false;
+    // $isOpenBracket = false;
     
-    $isCount = false;
-    $countArElems = [];
+    // $isCount = false;
+    // $countArElems = [];
 
-    $isEmptyArray = false;
+    // $isEmptyArray = false;
 
     foreach ($arDataSplit as $number => $symbol) {
         if ($isOpenBracket) {
@@ -100,12 +100,15 @@ function deserialize(string $data): array
                 if ($arDataSplit[$number + 2] === "0") {
                     $isEmptyArray = !$isEmptyArray;
                 } else {
-                    $arLevels[] = &$curLevel;
-                    $curLevel = &$curLevel[$newKey];
+                    // $arLevels[] = &$curLevel;
+                    // $curLevel = &$curLevel[$newKey];
 
-                    $newKey = "";
-                    
                     $countArElems[] = 0;
+                    $arDeserializedData[$newKey] = deserialize(substr($data, $number + 2), $curDataType, "", $arCurDataValueSplit, $isOpenBracket, $isCount, $countArElems, $isEmptyArray);
+
+                    // $newKey = "";
+                    
+                    // $countArElems[] = 0;
                 }
             } elseif ($symbol === ":") {
                 if (
@@ -164,9 +167,9 @@ function deserialize(string $data): array
                         $countArElems[array_key_last($countArElems)] -= 1;
                         
                         while ($countArElems[array_key_last($countArElems)] === 0) {
-                            $curLevel = &$arLevels[array_key_last($arLevels)];
+                            // $curLevel = &$arLevels[array_key_last($arLevels)];
                             
-                            unset($arLevels[array_key_last($arLevels)]);
+                            // unset($arLevels[array_key_last($arLevels)]);
                             unset($countArElems[array_key_last($countArElems)]);
                             
                             if ($countArElems[array_key_last($countArElems)] >= 1) {
